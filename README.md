@@ -11,11 +11,15 @@
   <a href="#projekte" style="padding: 10px 20px; background: white; color: #0077ff; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
 </header>
 
-<section id="Inselparadies" style="padding: 40px; text-align: center;">
-  <h2>Inselparadies</h2>
-  <img src="https://www.wallprints.com/pim/pr/WP/9743560/Fototapete-Inselparadies_big01.jpg" alt="Inselparadies" style="border-radius: 50%;">
-  <p>Wir freuen uns, uns stehts weiterzuentwickeln.</p>
+<section id="Inselparadies" style="padding: 60px 20px; text-align: center; background: #f0f8ff;">
+  <h2 style="font-size: 2.5em; color: #0077b6; margin-bottom: 20px;">🌴 Inselparadies</h2>
+  <img 
+    src="https://www.wallprints.com/pim/pr/WP/9743560/Fototapete-Inselparadies_big01.jpg" 
+    alt="Inselparadies" 
+    style="width: 250px; height: 250px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin-bottom: 20px;">
+  <p style="font-size: 1.2em; color: #333;">Wir freuen uns, uns stets weiterzuentwickeln.</p>
 </section>
+
 
 <section id="projekte" style="padding: 40px;">
   <h2>Meine Projekte</h2>
