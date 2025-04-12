@@ -48,11 +48,11 @@
   method="POST"
 >
   <label>
-    Your email:
+    Deine Email-Addresse:
     <input type="email" name="email">
   </label>
   <label>
-    Your message:
+    Deine Nachricht:
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
