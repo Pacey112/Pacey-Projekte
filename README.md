@@ -81,3 +81,66 @@
 
 </body>
 </html>
+
+<nav style="position: sticky; top: 0; background: #222; color: white; padding: 10px; z-index: 1000;">
+  <a href="#start" style="margin-right: 20px; color: white;">Start</a>
+  <a href="#über" style="margin-right: 20px; color: white;">Über mich</a>
+  <a href="#kontakt" style="color: white;">Kontakt</a>
+</nav>
+
+<header style="padding: 60px; background: linear-gradient(to right, #0077ff, #00c6ff); color: white; text-align: center;">
+  <h1>Willkommen auf meiner Webseite!</h1>
+  <p>Hier findest du Projekte, Ideen und mehr.</p>
+  <a href="#projekte" style="padding: 10px 20px; background: white; color: #0077ff; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+</header>
+
+<section id="über" style="padding: 40px; text-align: center;">
+  <h2>Über mich</h2>
+  <img src="https://via.placeholder.com/150" alt="Profilbild" style="border-radius: 50%;">
+  <p>Ich bin ein Webentwickler mit Fokus auf kreative Frontend-Projekte.</p>
+</section>
+
+<section id="projekte" style="padding: 40px;">
+  <h2>Meine Projekte</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <div style="width: 300px; background: white; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 20px;">
+      <h3>Projekt 1</h3>
+      <p>Kleiner Beschreibungstext zum Projekt.</p>
+      <a href="#">Ansehen</a>
+    </div>
+    <div style="width: 300px; background: white; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 20px;">
+      <h3>Projekt 2</h3>
+      <p>Ein weiteres cooles Projekt!</p>
+      <a href="#">Ansehen</a>
+    </div>
+  </div>
+</section>
+
+<section id="kontakt" style="padding: 40px; background-color: #f9f9f9;">
+  <h2>Kontakt</h2>
+  <form action="https://formspree.io/f/YOUR_ID" method="POST" style="max-width: 500px; margin: auto;">
+    <input type="text" name="name" placeholder="Dein Name" required style="width: 100%; margin-bottom: 10px; padding: 10px;">
+    <input type="email" name="email" placeholder="Deine E-Mail" required style="width: 100%; margin-bottom: 10px; padding: 10px;">
+    <textarea name="nachricht" placeholder="Deine Nachricht" required style="width: 100%; margin-bottom: 10px; padding: 10px;"></textarea>
+    <button type="submit" style="padding: 10px 20px; background-color: #0077ff; color: white; border: none; cursor: pointer;">Absenden</button>
+  </form>
+</section>
+
+<footer style="text-align: center; padding: 20px; background: #222; color: white;">
+  <p>© 2025 Deine Webseite</p>
+  <a href="https://github.com/deinname" target="_blank" style="color: white; margin: 0 10px;">GitHub</a>
+  <a href="https://instagram.com/deinname" target="_blank" style="color: white; margin: 0 10px;">Instagram</a>
+</footer>
+
+<script>
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+      e.preventDefault();
+      const target = document.querySelector(this.getAttribute('href'));
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth' });
+      }
+    });
+  });
+</script>
+
