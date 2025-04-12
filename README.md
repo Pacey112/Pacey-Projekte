@@ -35,7 +35,7 @@
 
 <section id="kontakt" style="padding: 40px; background-color: #f9f9f9;">
   <h2>Kontakt</h2>
-  <form action="https://formspree.io/f/YOUR_ID" method="POST" style="max-width: 500px; margin: auto;">
+  <form action="https://formspree.io/f/xqapnaag" method="POST" style="max-width: 500px; margin: auto;">
     <input type="text" name="name" placeholder="Dein Name" required style="width: 100%; margin-bottom: 10px; padding: 10px;">
     <input type="email" name="email" placeholder="Deine E-Mail" required style="width: 100%; margin-bottom: 10px; padding: 10px;">
     <textarea name="nachricht" placeholder="Deine Nachricht" required style="width: 100%; margin-bottom: 10px; padding: 10px;"></textarea>
@@ -44,9 +44,9 @@
 </section>
 
 <footer style="text-align: center; padding: 20px; background: #222; color: white;">
-  <p>© 2025 Deine Webseite</p>
-  <a href="https://github.com/deinname" target="_blank" style="color: white; margin: 0 10px;">GitHub</a>
-  <a href="https://instagram.com/deinname" target="_blank" style="color: white; margin: 0 10px;">Instagram</a>
+  <p>© 2025 Pacey B.</p>
+  <a href="https://github.com/Pacey1122" target="_blank" style="color: white; margin: 0 10px;">GitHub</a>
+  <a href="https://instagram.com/z12.pacey" target="_blank" style="color: white; margin: 0 10px;">Instagram</a>
 </footer>
 
 <script>
