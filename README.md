@@ -11,8 +11,8 @@
   <a href="#projekte" style="padding: 10px 20px; background: white; color: #0077ff; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
 </header>
 
-<section id="über" style="padding: 40px; text-align: center;">
-  <h2>Über mich</h2>
+<section id="Inselparadies" style="padding: 40px; text-align: center;">
+  <h2>Inselparadies</h2>
   <img src="https://www.wallprints.com/pim/pr/WP/9743560/Fototapete-Inselparadies_big01.jpg" alt="Inselparadies" style="border-radius: 50%;">
   <p>Wir freuen uns, uns stehts weiterzuentwickeln.</p>
 </section>
@@ -24,12 +24,10 @@
       <h3>Projekt 1</h3>
       <p>Kleiner Beschreibungstext zum Projekt.</p>
       <img src="https://www.wallprints.com/pim/pr/WP/9743560/Fototapete-Inselparadies_big01.jpg" alt="Inselparadies" style="border-radius: 10%;">
-      <a href="#">Ansehen</a>
     </div>
     <div style="width: 300px; background: white; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 20px;">
       <h3>Projekt 2</h3>
       <p>Ein weiteres cooles Projekt!</p>
-      <a href="#">Ansehen</a>
     </div>
   </div>
 </section>
