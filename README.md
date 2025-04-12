@@ -33,15 +33,14 @@
     style="width: 250px; height: 250px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin-bottom: 20px;">
   <p style="font-size: 1.2em; color: #333;">Markenzeichen für Tropico-Life</p>
 </section>
-
-    <div style="width: 300px; background: white; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 20px;">
-      <h3>Projekt 2</h3>
-      <p>Ein weiteres cooles Projekt!</p>
-  <img 
+ <img 
     src="https://www.wallprints.com/pim/pr/WP/9743560/Fototapete-Inselparadies_big01.jpg" 
     alt="Inselparadies" 
     style="width: 250px; height: 250px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin-bottom: 20px;">
   <p style="font-size: 1.2em; color: #333;">Noch ein Strandbild!</p>
+    <div style="width: 300px; background: white; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 20px;">
+      <h3>Projekt 2</h3>
+      <p>Ein weiteres cooles Projekt!</p>
   </section>
 
 <section id="kontakt" style="padding: 40px; background-color: #f9f9f9;">
