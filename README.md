@@ -6,15 +6,15 @@
 </nav>
 
 <header style="padding: 60px; background: linear-gradient(to right, #0077ff, #00c6ff); color: white; text-align: center;">
-  <h1>Willkommen auf meiner Webseite!</h1>
-  <p>Hier findest du Projekte, Ideen und mehr.</p>
+  <h1>Willkommen auf Tropico-Life!</h1>
+  <p>Hier findest du unsere Projekte, Ideen und mehr.</p>
   <a href="#projekte" style="padding: 10px 20px; background: white; color: #0077ff; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
 </header>
 
 <section id="über" style="padding: 40px; text-align: center;">
   <h2>Über mich</h2>
-  <img src="https://via.placeholder.com/150" alt="Profilbild" style="border-radius: 50%;">
-  <p>Ich bin ein Webentwickler mit Fokus auf kreative Frontend-Projekte.</p>
+  <img src="https://th.bing.com/th/id/R.b7de9dfd4f1f8ff11c890c60c2c03a8d?rik=zt5GRvNzKGsjMw&pid=ImgRaw&r=0" alt="Inselparadies" style="border-radius: 50%;">
+  <p>Wir freuen uns, uns stehts weiterzuentwickeln.</p>
 </section>
 
 <section id="projekte" style="padding: 40px;">
