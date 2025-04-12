@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Ein einfaches Forum-Design">
+  <meta name="author" content="Dein Name">
+  <title>Forum Beispiel</title>
+
+  <!-- Einfache externe Schriftart -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+  <style>
+    /* Allgemeine Styles */
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+
+    header {
+      background-color: #333;
+      color: white;
+      padding: 10px 0;
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0;
+    }
+
+    /* Navigation */
+    nav {
+      background-color: #444;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: 700;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    /* Container für Inhalt */
+    .container {
+      width: 90%;
+      max-width: 1200px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: white;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+
+    .forum-post {
+      border-bottom: 1px solid #ddd;
+      padding: 15px 0;
+    }
+
+    .forum-post:last-child {
+      border-bottom: none;
+    }
+
+    .forum-post h2 {
+      margin: 0;
+      font-size: 20px;
+      color: #333;
+    }
+
+    .forum-post p {
+      color: #666;
+      margin: 5px 0 0;
+    }
+
+    .forum-post .author {
+      font-weight: bold;
+    }
+
+    .forum-post .date {
+      font-size: 0.9em;
+      color: #888;
+    }
+
+    .reply-button {
+      background-color: #28a745;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+    .reply-button:hover {
+      background-color: #218838;
+    }
+
+    footer {
+      background-color: #333;
+      color: white;
+      padding: 10px 0;
+      text-align: center;
+      margin-top: 30px;
+    }
+
+    footer a {
+      color: white;
+      text-decoration: none;
+    }
+
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>Forum Beispiel</h1>
+    <p>Diskutiere mit anderen über interessante Themen</p>
+  </header>
+
+  <!-- Navigation -->
+  <nav>
+    <a href="#">Startseite</a>
+    <a href="#">Themen</a>
+    <a href="#">Benutzerprofil</a>
+    <a href="#">Anmelden</a>
+  </nav>
+
+  <!-- Inhalt Container -->
+  <div class="container">
+
+    <!-- Forum Post 1 -->
+    <div class="forum-post">
+      <h2>Wie erstellt man eine eigene Webseite?</h2>
+      <p class="author">Von Max Mustermann</p>
+      <p class="date">12. April 2025 | 14:30 Uhr</p>
+      <p>Ich möchte wissen, wie man eine einfache Webseite mit HTML und CSS erstellt. Kann mir jemand helfen?</p>
+      <button class="reply-button">Antworten</button>
+    </div>
+
+    <!-- Forum Post 2 -->
+    <div class="forum-post">
+      <h2>JavaScript für Anfänger</h2>
+      <p class="author">Von Lisa Schmidt</p>
+      <p class="date">12. April 2025 | 15:45 Uhr</p>
+      <p>Ich lerne gerade JavaScript und habe Schwierigkeiten mit Schleifen. Kann mir jemand erklären, wie sie funktionieren?</p>
+      <button class="reply-button">Antworten</button>
+    </div>
+
+    <!-- Forum Post 3 -->
+    <div class="forum-post">
+      <h2>CSS Grid Layout</h2>
+      <p class="author">Von John Doe</p>
+      <p class="date">12. April 2025 | 16:10 Uhr</p>
+      <p>Ich möchte mehr über CSS Grid lernen und wie ich es effektiv nutzen kann. Hat jemand ein gutes Tutorial für Anfänger?</p>
+      <button class="reply-button">Antworten</button>
+    </div>
+
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Forum Beispiel | <a href="#">Impressum</a> | <a href="#">Datenschutz</a></p>
+  </footer>
+
+  <script>
+    // JavaScript für zukünftige Erweiterungen (z.B. Antwortlogik)
+    document.querySelectorAll('.reply-button').forEach(button => {
+      button.addEventListener('click', function() {
+        alert('Antworten-Button geklickt!');
+      });
+    });
+  </script>
+
+</body>
+</html>
