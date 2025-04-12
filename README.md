@@ -69,3 +69,7 @@
   });
 </script>
 
+footer p {
+  display: none;
+}
+
