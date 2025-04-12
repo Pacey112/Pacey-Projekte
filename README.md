@@ -43,6 +43,22 @@
   </form>
 </section>
 
+<form
+  action="https://formspree.io/f/xqapnaag"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+
 <footer style="text-align: center; padding: 20px; background: #222; color: white;">
   <p>© 2025 Pacey B.</p>
   <a href="https://github.com/Pacey1122" target="_blank" style="color: white; margin: 0 10px;">GitHub</a>
