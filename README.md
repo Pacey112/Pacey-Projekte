@@ -39,7 +39,6 @@
       <p>Ein weiteres cooles Projekt!</p>
     </div>
   </div>
-</section>
 
 <section id="kontakt" style="padding: 40px; background-color: #f9f9f9;">
   <h2>Kontakt</h2>
