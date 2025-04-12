@@ -27,8 +27,6 @@
     <div style="width: 300px; background: white; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 20px;">
       <h3>Projekt 1</h3>
       <p>Kleiner Beschreibungstext zum Projekt.</p>
- <section id="Inselparadies" style="padding: 60px 20px; text-align: center; background: #f0f8ff;">
-  <h2 style="font-size: 2.5em; color: #0077b6; margin-bottom: 20px;">🌴 Inselparadies</h2>
   <img 
     src="https://www.wallprints.com/pim/pr/WP/9743560/Fototapete-Inselparadies_big01.jpg" 
     alt="Inselparadies" 
