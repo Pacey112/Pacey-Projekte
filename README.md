@@ -27,8 +27,15 @@
     <div style="width: 300px; background: white; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 20px;">
       <h3>Projekt 1</h3>
       <p>Kleiner Beschreibungstext zum Projekt.</p>
-      <img src="https://www.wallprints.com/pim/pr/WP/9743560/Fototapete-Inselparadies_big01.jpg" alt="Inselparadies" style="border-radius: 10%;">
-    </div>
+ <section id="Inselparadies" style="padding: 60px 20px; text-align: center; background: #f0f8ff;">
+  <h2 style="font-size: 2.5em; color: #0077b6; margin-bottom: 20px;">🌴 Inselparadies</h2>
+  <img 
+    src="https://www.wallprints.com/pim/pr/WP/9743560/Fototapete-Inselparadies_big01.jpg" 
+    alt="Inselparadies" 
+    style="width: 250px; height: 250px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin-bottom: 20px;">
+  <p style="font-size: 1.2em; color: #333;">Wir freuen uns, uns stets weiterzuentwickeln.</p>
+</section>
+
     <div style="width: 300px; background: white; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 20px;">
       <h3>Projekt 2</h3>
       <p>Ein weiteres cooles Projekt!</p>
