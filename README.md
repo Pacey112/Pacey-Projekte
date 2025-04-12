@@ -8,7 +8,7 @@
 <header style="padding: 60px; background: linear-gradient(to right, #0077ff, #00c6ff); color: white; text-align: center;">
   <h1>Willkommen auf Tropico-Life!</h1>
   <p>Hier findest du unsere Projekte, Ideen und mehr.</p>
-  <a href="#projekte" style="padding: 10px 20px; background: white; color: #0077ff; border-radius: 5px; text-decoration: none;">Mehr erfahren</a>
+  <a href="#projekte" style="padding: 10px 20px; background: white; color: #0077ff; border-radius: 5px; text-decoration: none;">Mehr erfahren</https://discord.gg/K92UxTUHfS>
 </header>
 
 <section id="Inselparadies" style="padding: 60px 20px; text-align: center; background: #f0f8ff;">
