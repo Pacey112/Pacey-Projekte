@@ -13,7 +13,7 @@
 
 <section id="über" style="padding: 40px; text-align: center;">
   <h2>Über mich</h2>
-  <img src="https://th.bing.com/th/id/R.b7de9dfd4f1f8ff11c890c60c2c03a8d?rik=zt5GRvNzKGsjMw&pid=ImgRaw&r=0" alt="Inselparadies" style="border-radius: 50%;">
+  <img src="https://www.wallprints.com/pim/pr/WP/9743560/Fototapete-Inselparadies_big01.jpg" alt="Inselparadies" style="border-radius: 50%;">
   <p>Wir freuen uns, uns stehts weiterzuentwickeln.</p>
 </section>
 
@@ -23,6 +23,7 @@
     <div style="width: 300px; background: white; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 20px;">
       <h3>Projekt 1</h3>
       <p>Kleiner Beschreibungstext zum Projekt.</p>
+      <img src="https://www.wallprints.com/pim/pr/WP/9743560/Fototapete-Inselparadies_big01.jpg" alt="Inselparadies" style="border-radius: 10%;">
       <a href="#">Ansehen</a>
     </div>
     <div style="width: 300px; background: white; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 20px;">
