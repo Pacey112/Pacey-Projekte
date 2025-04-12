@@ -18,7 +18,6 @@
     alt="Inselparadies" 
     style="width: 250px; height: 250px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin-bottom: 20px;">
   <p style="font-size: 1.2em; color: #333;">Wir freuen uns, uns stets weiterzuentwickeln.</p>
-</section>
 
 
 <section id="projekte" style="padding: 40px;">
@@ -41,7 +40,6 @@
     <div style="width: 300px; background: white; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 20px;">
       <h3>Projekt 2</h3>
       <p>Ein weiteres cooles Projekt!</p>
-  </section>
 
 <section id="kontakt" style="padding: 40px; background-color: #f9f9f9;">
   <h2>Kontakt</h2>
